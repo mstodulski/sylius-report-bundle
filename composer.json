@@ -45,7 +45,7 @@
         "mstodulski/sylius-report": "8.*",
         "mstodulski/sylius-money-bundle": "8.*",
         "mstodulski/sylius-resource-bundle": "8.*",
-        "symfony/framework-bundle": "4.4 || ^5.3"
+        "symfony/framework-bundle": "^4.4 || ^5.3"
     },
     "require-dev": {
         "phpspec/phpspec": "^3.0",
